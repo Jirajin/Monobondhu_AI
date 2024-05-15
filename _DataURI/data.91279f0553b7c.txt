@@ -1,0 +1,1 @@
+chrome-extension://hbklahkfbghjgbclbfcnhpfmajkagnci/css/@szhin-react-menu/index.css

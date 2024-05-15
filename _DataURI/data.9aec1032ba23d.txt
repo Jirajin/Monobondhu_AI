@@ -1,0 +1,1 @@
+chrome-extension://hbklahkfbghjgbclbfcnhpfmajkagnci/vendor/js/opencv.js
